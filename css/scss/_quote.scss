@@ -1,0 +1,46 @@
+.quoteForm {
+	width:100%;
+	max-width:500px;
+	margin:0 auto;
+	padding:0 0 3em 0;
+	input {
+		width:100%;
+		margin-bottom:1em;
+		padding:.7em;
+		font-size:1.1em;
+		border:1px solid $lightGrey;
+		border-radius:0;
+	}
+	input[type="submit"] {
+		background:$mainBlue;
+		border:0;
+		color:#ffffff;
+	}
+	select {
+		width:110%;
+		-webkit-appearance:none;
+		background:#ffffff;
+		border-radius:0;
+		border:0;
+	}
+}
+
+.quoteSelect {
+	border:1px solid $lightGrey;
+	margin-bottom:1em;
+	padding:.6em;
+	position:relative;
+	overflow:hidden;
+	&:after {
+		content:'';
+		position:absolute;
+		right:10px;
+		top:20px;
+		width: 0; 
+		height: 0; 
+		border-left: 10px solid transparent;
+		border-right: 10px solid transparent;
+		border-top: 10px solid $lightGrey;
+		pointer-events:none;
+	}
+}

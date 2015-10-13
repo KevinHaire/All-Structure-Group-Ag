@@ -13,8 +13,8 @@
   }
 }
 
-$mainBlue: #003470;
-$darkBlue: #1b1464;
+$mainBlue: #8d7959;
+$darkBlue: #c08e40;
 $grey: #f6f5f1;
 $lightGrey: #a1a1a1;
 $lightBrown: #f6f5f1;
@@ -109,4 +109,17 @@ img {
 
 .galleryHeader {
 	text-align:center;
+}
+
+
+.displayNone {
+	display:none;
+}
+
+.center {
+	text-align:center;
+}
+
+.padding {
+	padding:3em 0;
 }

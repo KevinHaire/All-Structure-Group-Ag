@@ -40,11 +40,15 @@
   @include breakpoint(mamaBear) {
     position:static;
     transform:translateY(0);
-    padding:3em 0 0 1.5em;
+    padding:3em 0 0 2.5em;
     width:80%;
     float:left;
   }
 	ul {
+    @include breakpoint(mamaBear) {
+      display:flex;
+      justify-content:space-between;
+    }
 		li {
 			border-bottom:1px solid $darkBlue;
 			text-align:center;
