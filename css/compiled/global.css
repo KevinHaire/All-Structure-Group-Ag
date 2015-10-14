@@ -1741,6 +1741,12 @@ img.rsImg {
   pointer-events: none;
 }
 
+.contentImgRight {
+  float: right;
+  max-width: 500px;
+  padding: 0 0 10px 15px;
+}
+
 .mainFooter {
   background: #8d7959;
   padding: 2em 0;

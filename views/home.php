@@ -19,7 +19,7 @@
 	<div class="contain">
 		<section class="welcome1">
 			<h1>Welcome To All Structure Group LTD.</h1>
-			<p>All Structure Group LTD. is a steel building erecting company. We are also capable of completing a variety of different projects from foundations and earth works, to several aspects of interior fit ups.  We have approx. 15-20 men on staff depending on the project and have upwards of 40 if the project requires that much man power. All Structure Group LTD. completes work throughout Alberta, BC, Yukon and NWT.</p>
+			<p>All Structure Group LTD. is a company specalizing in building erecting. We stand many different types of buildings including: pre-enginered steel, many types of fabric, quonsets and more. Our goal is to provide our customers with prompt service and on schedule completion. Don't risk injuring yourself or your new building by doing it yourself or hiring an inexperienced installer. <a href="/quote">Click here</a> for an instant quote on your installation!</p>
 		</section>
 	</div>
 </section>

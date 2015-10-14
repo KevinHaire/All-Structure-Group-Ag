@@ -5,7 +5,7 @@
 	<!-- <li><a href="/projectmanagement">Project Management</a></li> -->
 	<li><a href="/projects">Projects</a></li>
 	<!-- <li><a href="/healthsafety">Health &amp Safety</a></li> -->
-	<li><a href="/testimonials">Testimonials</a></li>
+	<!-- <li><a href="/testimonials">Testimonials</a></li> -->
 	<li><a href="/quote">Instant Quote</a></li>
 	<li><a href="/contact">Contact</a></li>
 </ul>

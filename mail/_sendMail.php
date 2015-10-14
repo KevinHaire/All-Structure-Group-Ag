@@ -1,6 +1,6 @@
 <?php
 	$referer = $_SERVER['HTTP_REFERER'];
-	if ($referer == 'http://allstructure.kev/contact') {
+	if ($referer == 'http://'.$_SERVER[HTTP_HOST].'/contact') {
 
 		require 'PHPMailerAutoload.php';
 
